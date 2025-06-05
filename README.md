@@ -22,7 +22,7 @@ Here are some of the key academic and hands-on projects I’ve worked on:
 7. **🚉 Online Railway Reservation System – Case Study**  
    - A systems-level design and evaluation case study
    
-## 🧑‍💻 Internship Experience
+## 👩🏻‍💻 Internship Experience
 
 1. **Data Analysis Intern – APSSDC** *(Virtual Internship)*  
    - Explored smartwatch data to uncover usage trends and deliver personalized insights.
@@ -35,8 +35,8 @@ Here are some of the key academic and hands-on projects I’ve worked on:
 ## 🛠️ Tech Stack
 
 ```text
-Languages                : Python, SQL                                                        
+Languages                :Python, SQL                                                        
 Data Science & Analytics :EDA, Data Visualization, Data Warehousing & Mining                      
 Machine Learning         :Supervised & Unsupervised Learning, Model Evaluation & Validation
-Databases                : MySQL         
+Databases                :MySQL         
 Tools & Platforms        :Power BI, Zoho Analytics, MS Office Suite, Canva                          
