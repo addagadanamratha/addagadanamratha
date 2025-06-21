@@ -24,8 +24,8 @@ Here are some of the key academic and hands-on projects I’ve worked on:
    
 ## 👩🏻‍💻 Internship Experience
 
-**Salesforce Developer Virtual Internship** – SmartInternz (in partnership with NEAT-AICTE)
-#### May 2024 - Jun 2024
+### Salesforce Developer Virtual Internship – SmartInternz (in partnership with NEAT-AICTE)
+**May 2024 - Jun 2024**
 - Completed an 8-week virtual internship focused on the Salesforce ecosystem.  
 - Gained hands-on experience through Trailhead modules and earned multiple Superbadges:  
   - Apex Specialist  
@@ -33,14 +33,14 @@ Here are some of the key academic and hands-on projects I’ve worked on:
   - Developer Super Set  
 - Worked with Apex programming, Lightning Web Components (LWC), process automation, security, API integration, and VS Code/CLI setup.
 
-**Data Analysis Intern – APSSDC** *(Virtual Internship)*  
-#### Feb 2023 – Mar 2023
+### Data Analysis Intern – APSSDC** *(Virtual Internship)*  
+**Jun 2023 – Aug 2023**
 - Explored smartwatch data to uncover usage trends and deliver personalized insights.  
 - Used Python, Pandas, and Matplotlib to clean, analyze, and visualize data.  
 - Simplified complex patterns into intuitive insights for better understanding.
 
-**Python Programming Intern – HDLC Technologies** *(Virtual Internship)*  
-#### Jul 2022 – Aug 2022 
+### Python Programming Intern – HDLC Technologies** *(Virtual Internship)*  
+**Feb 2023 – Mar 2023** 
 - Built a Tkinter calculator with real-time input validation and an enhanced UI.  
 - Developed a Streamlit-based BMI calculator that delivered fast, customized health feedback.  
 - Strengthened skills in Python scripting, GUI design, and user-focused application development.
