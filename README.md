@@ -33,13 +33,13 @@ Here are some of the key academic and hands-on projects I’ve worked on:
   - Developer Super Set  
 - Worked with Apex programming, Lightning Web Components (LWC), process automation, security, API integration, and VS Code/CLI setup.
 
-### Data Analysis Intern – APSSDC** *(Virtual Internship)*  
+### Data Analysis Intern – APSSDC (Virtual Internship)
 **Jun 2023 – Aug 2023**
 - Explored smartwatch data to uncover usage trends and deliver personalized insights.  
 - Used Python, Pandas, and Matplotlib to clean, analyze, and visualize data.  
 - Simplified complex patterns into intuitive insights for better understanding.
 
-### Python Programming Intern – HDLC Technologies** *(Virtual Internship)*  
+### Python Programming Intern – HDLC Technologies (Virtual Internship)
 **Feb 2023 – Mar 2023** 
 - Built a Tkinter calculator with real-time input validation and an enhanced UI.  
 - Developed a Streamlit-based BMI calculator that delivered fast, customized health feedback.  
