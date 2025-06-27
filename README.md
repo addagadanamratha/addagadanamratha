@@ -7,19 +7,19 @@ With a background in **Big Data Analytics** and hands-on experience from academi
 ## 🧪 Projects from My Undergrad
 
 Here are some of the key academic and hands-on projects I’ve worked on:
-1. **🔍 Decoding Instructor Performance with ML & Data Mining**
+**🔍 Decoding Instructor Performance with ML & Data Mining**
    - Evaluated instructor performance across three datasets using ML models, achieving 90.15% accuracy. Deployed a web app to visualize insights and model predictions.
-2. **🧠 Brain Stroke Prediction using ML Models**  
+**🧠 Brain Stroke Prediction using ML Models**  
    - Built predictive models using Decision Tree, Random Forest, SVC, and KNN on a dataset of 5,110 individuals. Achieved 95.76% accuracy with KNN for early stroke detection applications.
-3. **🛒 Customer Segmentation using K-Means Clustering**  
+**🛒 Customer Segmentation using K-Means Clustering**  
    - Applied K-Means to segment retail customers, achieving a silhouette score of 0.5539. Helped drive targeted marketing through data-informed clusters.
-4. **🏦 Bank Customer Loyalty & Segmentation (Hadoop, Hive, R)**  
+**🏦 Bank Customer Loyalty & Segmentation (Hadoop, Hive, R)**  
    - Analyzed customer churn and segmentation patterns using Hadoop and Hive. Generated actionable insights to improve customer engagement and loyalty strategies.
-5. **⚙️ Software Quality Attribute Quantification**  
+**⚙️ Software Quality Attribute Quantification**  
    - Modeled and analyzed reliability in control systems using Petri nets and Time-Net. Focused on DFWCS, achieving a reliability percentage of 92%, supporting nuclear plant software evaluations.
-6. **🏨 Hotel Booking Management System**
+**🏨 Hotel Booking Management System**
    - Developed a hotel management system with room booking, modifications, and cancellation features. Included robust admin tools for smooth operational control and user management.
-7. **🚉 Online Railway Reservation System – Case Study**  
+**🚉 Online Railway Reservation System – Case Study**  
    - A systems-level design and evaluation case study
    
 ## 👩🏻‍💻 Internship Experience
@@ -52,4 +52,4 @@ Languages                :Python, SQL
 Data Science & Analytics :EDA, Data Visualization, Data Warehousing & Mining                      
 Machine Learning         :Supervised & Unsupervised Learning, Model Evaluation & Validation
 Databases                :MySQL         
-Tools & Platforms        :Power BI, Zoho Analytics, MS Office Suite, Canva                          
+Tools & Platforms        :Tableau, Zoho Analytics, MS Office Suite, Canva                          
