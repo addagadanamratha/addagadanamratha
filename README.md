@@ -1,55 +1,104 @@
-# Hi, I'm Addagada Namratha!👩🏻‍💻
+# Namratha Addagada 👩🏻‍💻
+### Data Science | Machine Learning | Big Data Analytics
 
-I'm a Computer Science graduate with a strong interest in **Data Science** and **Machine Learning**.  
-I’m constantly exploring how data can be used to solve problems, tell stories, and drive decisions.  
-With a background in **Big Data Analytics** and hands-on experience from academic projects and internships, I'm building my foundation one project at a time.
+🎓 MS Computer Science – UNC Charlotte  
+📊 Focused on scalable analytics, predictive modeling & data-driven decision systems  
+☁️ AWS | Snowflake | Databricks | Hadoop Ecosystem  
 
-## 🧪 Projects from My Undergrad
+---
 
-Here are some of the key academic and hands-on projects I’ve worked on:
-**🔍 Decoding Instructor Performance with ML & Data Mining**
-   - Evaluated instructor performance across three datasets using ML models, achieving 90.15% accuracy. Deployed a web app to visualize insights and model predictions.
-**🧠 Brain Stroke Prediction using ML Models**  
-   - Built predictive models using Decision Tree, Random Forest, SVC, and KNN on a dataset of 5,110 individuals. Achieved 95.76% accuracy with KNN for early stroke detection applications.
-**🛒 Customer Segmentation using K-Means Clustering**  
-   - Applied K-Means to segment retail customers, achieving a silhouette score of 0.5539. Helped drive targeted marketing through data-informed clusters.
-**🏦 Bank Customer Loyalty & Segmentation (Hadoop, Hive, R)**  
-   - Analyzed customer churn and segmentation patterns using Hadoop and Hive. Generated actionable insights to improve customer engagement and loyalty strategies.
-**⚙️ Software Quality Attribute Quantification**  
-   - Modeled and analyzed reliability in control systems using Petri nets and Time-Net. Focused on DFWCS, achieving a reliability percentage of 92%, supporting nuclear plant software evaluations.
-**🏨 Hotel Booking Management System**
-   - Developed a hotel management system with room booking, modifications, and cancellation features. Included robust admin tools for smooth operational control and user management.
-**🚉 Online Railway Reservation System – Case Study**  
-   - A systems-level design and evaluation case study
-   
-## 👩🏻‍💻 Internship Experience
+## 🚀 About Me
 
-### Salesforce Developer Virtual Internship – SmartInternz (in partnership with NEAT-AICTE)
-**May 2024 - Jun 2024**
-- Completed an 8-week virtual internship focused on the Salesforce ecosystem.  
-- Gained hands-on experience through Trailhead modules and earned multiple Superbadges:  
-  - Apex Specialist  
-  - Process Automation Specialist  
-  - Developer Super Set  
-- Worked with Apex programming, Lightning Web Components (LWC), process automation, security, API integration, and VS Code/CLI setup.
+I am a data-focused Computer Science graduate passionate about building intelligent systems that transform raw data into actionable insights.  
 
-### Data Analysis Intern – APSSDC (Virtual Internship)
-**Jun 2023 – Aug 2023**
-- Explored smartwatch data to uncover usage trends and deliver personalized insights.  
-- Used Python, Pandas, and Matplotlib to clean, analyze, and visualize data.  
-- Simplified complex patterns into intuitive insights for better understanding.
+My work spans:
+- End-to-end Machine Learning pipelines  
+- Big Data processing using distributed frameworks  
+- Risk & predictive analytics  
+- Data visualization & storytelling  
 
-### Python Programming Intern – HDLC Technologies (Virtual Internship)
-**Feb 2023 – Mar 2023** 
-- Built a Tkinter calculator with real-time input validation and an enhanced UI.  
-- Developed a Streamlit-based BMI calculator that delivered fast, customized health feedback.  
-- Strengthened skills in Python scripting, GUI design, and user-focused application development.
+I enjoy combining strong analytical foundations with practical deployment to solve real-world problems.
 
-## 🛠️ Tech Stack
+---
 
-```text
-Languages                :Python, SQL                                                        
-Data Science & Analytics :EDA, Data Visualization, Data Warehousing & Mining                      
-Machine Learning         :Supervised & Unsupervised Learning, Model Evaluation & Validation
-Databases                :MySQL         
-Tools & Platforms        :Tableau, Zoho Analytics, MS Office Suite, Canva                          
+## 🧠 Featured Projects
+
+### 🔍 Instructor Performance Prediction
+- Designed and validated 7+ ML models across 3 datasets (8K+ records)
+- Achieved 90.15% accuracy using a hybrid Decision Tree + SVM model
+- Built and deployed a web-based predictive system for model visualization
+
+---
+
+### 🧠 Brain Stroke Risk Prediction
+- Trained classification models on 5,110 patient records
+- Achieved 95.76% accuracy using KNN
+- Delivered predictive healthcare insights via dashboard analytics
+
+---
+
+### 🏦 Bank Customer Loyalty & Segmentation (Big Data)
+- Processed 100K+ records using Hadoop (HDFS, MapReduce, Hive)
+- Implemented clustering-based churn & risk analysis
+- Designed scalable Hive SQL pipelines for structured insights
+
+---
+
+### 🛒 Retail Customer Segmentation
+- Applied K-Means clustering (Silhouette Score: 0.5539)
+- Engineered features and built segmentation dashboards
+- Enabled targeted marketing strategies through cluster profiling
+
+---
+
+### ⚙️ Software Reliability Modeling (Research)
+- Modeled Digital Feed Water Control System (DFWCS) using Petri Nets
+- Achieved 92% reliability prediction accuracy
+- Focused on safety-critical system analysis
+
+---
+
+## 💼 Internship Experience
+
+### Salesforce Developer Intern
+- Built solutions using Apex & Lightning Web Components (LWC)
+- Automated workflows and implemented role-based security
+- Integrated external systems via REST APIs
+- Earned Apex Specialist & Process Automation Super Badges
+
+### Data Analysis Intern – APSSDC
+- Analyzed 50K+ smartwatch records using Python
+- Built ML models improving pilot user activity by 15%
+- Delivered visual insights using Matplotlib & statistical analysis
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python, SQL, R, JavaScript, C, C++, Java
+
+### Machine Learning
+Scikit-learn, TensorFlow, PyTorch  
+Predictive Modeling, Hyperparameter Tuning, Cross-Validation, A/B Testing  
+
+### Big Data & Data Engineering
+PySpark, Hadoop, Hive  
+Snowflake, Databricks  
+ETL Pipelines, Data Warehousing, Data Lake Architecture  
+
+### Visualization
+Tableau, Power BI  
+
+### Cloud & DevOps
+AWS (S3, Glue, Athena, EMR, Lambda, EC2, QuickSight)  
+Docker, Kubernetes  
+Git, GitHub  
+
+---
+
+## 📈 Current Focus
+- Advanced Model Optimization  
+- Risk Analytics & Financial Modeling  
+- Scalable Data Engineering Architectures  
+- ML Deployment & Production Systems  
